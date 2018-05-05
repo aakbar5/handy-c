@@ -1,0 +1,2 @@
+Text written by standard file descriptor
+Text written by dup @ stdout file descriptor
