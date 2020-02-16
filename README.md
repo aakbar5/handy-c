@@ -1,6 +1,7 @@
 <!-- TOC -->
 
 - [Book - Advanced Linux Programming](#book---advanced-linux-programming)
+- [Book - Linux System Programming](#book---linux-system-programming)
 - [Misc](#misc)
 - [License](#license)
 
@@ -10,6 +11,11 @@
 - Book # Advanced Linux Programming
   By Mark Mitchell, Jeffrey Oldham, and Alex Samuel
   - [Source](advanced_linux_programming/README.md)
+
+# Book - Linux System Programming
+- Book # Advanced Linux Programming
+  By Robert Love
+  - [Source](linux_sys_prog/README.md)
 
 # Misc
 - [Convert PNG image to PPM format](misc/png_to_ppm.c)
