@@ -1,0 +1,2 @@
+// Listing 2.6 (readfile.c) Freeing Resources 
+During Abnormal Conditions
